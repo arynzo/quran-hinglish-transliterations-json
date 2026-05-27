@@ -221,7 +221,3 @@ If this project helped you, give this repository a star ⭐
 # 🕌 Dua
 
 May Allah accept this effort and make it beneficial for the Ummah. Ameen.
-
-```
-
-```
