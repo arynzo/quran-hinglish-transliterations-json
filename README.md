@@ -1,6 +1,6 @@
 # 📖 Quran Surah JSON Collection
 
-A complete Quran Surah JSON dataset specially made for developers who want to build Islamic apps, Quran websites, bots, APIs, AI tools, or educational platforms using Hinglish Transliteration.
+A complete Quran Surah JSON dataset specially made for developers who want to build Islamic apps, Quran websites, bots, APIs, AI tools, or educational platforms using English Transliteration.
 
 This repository contains all 114 Surahs of the Quran in separate JSON files.
 
